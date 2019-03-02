@@ -1,10 +1,10 @@
-﻿# Ilya Masukov
+﻿# Ilya Masukov(Curricullum Vitae)
 
-Email: il.masukov@gmail.com
+**Email**: il.masukov@gmail.com
 
-Phone: +375339028661
+**Phone**: +375(33)9028661
 
-Address: 59 Plexanova Street, Minsk
+**Address**: 59 Plexanova Street, Minsk
 
 ---
 ## Summary
