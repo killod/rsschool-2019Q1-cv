@@ -35,7 +35,7 @@ Some of my projects you can find here: [Github](https://github.com/killod) .
 During my studies at the university I made the following projects:
 
  - Scientific library website using PHP, HTML/CSS, MySQL;
- - Andoid apps: Tourist app which uses camera, SQLite, different types of views and lists; Simple calculator; Football quiz app; Animal quiz app with firebase;
+ - Android apps: Tourist app which uses camera, SQLite, different types of views and lists; Simple calculator; Football quiz app; Animal quiz app with firebase;
  - Lots of small Java projects implementing algorithms of searching, sorting, data encryption, data structures.
 
 During IBA "Software Testing" cources I had experience with test automation using Java and Selenium WebDriver.
