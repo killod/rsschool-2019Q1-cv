@@ -1,0 +1,30 @@
+header {
+    z-index: 1;
+}
+
+.navigation ul {
+    display: flex;
+    justify-content:space-around;
+}
+
+header li {
+    margin: 1rem 0;
+    overflow: hidden;
+}
+
+header ul a {
+    text-decoration: none;
+    font-family: "Playfair Display", "Times New Roman", serif;
+    color: #A8DBF4;
+}
+
+header ul a:hover {
+    color: #3b1763;
+    opacity: 0.7;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
