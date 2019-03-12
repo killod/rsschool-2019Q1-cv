@@ -18,10 +18,6 @@ header ul a {
     color: #A8DBF4;
 }
 
-header ul a:hover {
-    color: #3b1763;
-}
-
 .sticky {
     position: fixed;
     top: 0;

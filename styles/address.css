@@ -22,7 +22,3 @@ address a {
     font-family: "Playfair Display", "Times New Roman", serif;
     color: #A8DBF4;
 }
-
-address a :hover{
-    color: #3b1763;
-}
