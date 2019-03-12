@@ -1,0 +1,15 @@
+.skills h2 {
+    padding: 1rem 6rem;
+}
+
+.skills table {
+    border: 1px solid #3B322B;
+    margin-left: 1rem;
+}
+
+.skills table td {
+    border: 1px solid #3B322B;
+    text-align: center;
+    color: #3B322B;
+    padding: 1rem;
+}
