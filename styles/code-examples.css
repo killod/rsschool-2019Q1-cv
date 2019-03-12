@@ -1,0 +1,19 @@
+.code-examples h2 {
+    padding: 1rem 6rem;
+}
+
+.code-examples span {
+    padding: 1rem 4rem;
+
+    color: #C4C2C1;
+}
+
+.code-examples a {
+    text-decoration: none;
+    font-family: "Playfair Display", "Times New Roman", serif;
+    color: #A8DBF4;
+}
+
+.code-examples ul {
+    padding: 1rem 4rem;
+}

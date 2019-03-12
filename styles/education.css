@@ -1,0 +1,23 @@
+.education {
+    font-family: "Times New Roman", serif;
+    color: #C4C2C1;
+}
+
+.education h2 {
+    padding: 1rem 6rem;
+}
+
+.education span,.education ol {
+    padding: 1rem 4rem;
+    list-style: decimal;
+}
+
+.education li {
+    padding: .2rem .2rem;
+}
+
+.education a {
+    text-decoration: none;
+    font-family: "Playfair Display", "Times New Roman", serif;
+    color: #A8DBF4;
+}
